@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Movie Recap App",
+    "slug": "movie-recap-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.zwethumg.movierecapapp"
+    },
+    "owner": "minsats-organization",
+    "extra": {
+      "eas": {
+        "projectId": "3f0f087d-0af6-48d2-a9cf-3d1c9e4c4144"
+      }
+    }
+  }
+}
