@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Movie Recap App",
-    "slug": "movie-recap-app",
+    "name": "Movie Recap v2",
+    "slug": "movie-recap-v2",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
@@ -14,7 +14,7 @@
     "owner": "minsats-organization",
     "extra": {
       "eas": {
-        "projectId": "3f0f087d-0af6-48d2-a9cf-3d1c9e4c4144"
+        "projectId": "e6237dee-0cdc-4a0f-a688-095a97180fb9"
       }
     }
   }
